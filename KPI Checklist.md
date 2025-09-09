@@ -9,46 +9,44 @@
 ## 1️⃣ Data & Cleaning
 - [X] Dataset(s) downloaded and saved locally (Players + team results)
 - [X] Positions (QB, RB, WR, TE) standardized
-- [ ] Team names consistent across datasets
-- [ ] Duplicates / errors removed
+- [X] Team names consistent across datasets
+- [X] Duplicates / errors removed
 
 ---
 
 ## 2️⃣ Analysis & Insights
-- [ ] Top 3 players per position identified per season
-- [ ] Metrics computed: Touchdowns, Yards, Fantasy Points
-- [ ] Merge with playoff results
-- [ ] % of top players making playoffs per season
-- [ ] Trends across positions and metrics explored
-- [ ] Observations documented in Markdown
+- [X] Top 3 players per position identified per season
+- [X] Metrics computed: Touchdowns, Yards, Fantasy Points
+- [X] Merge with playoff results
+- [X] % of top players making playoffs per season
+- [X] Trends across positions and metrics explored
+- [X] Observations documented in Markdown
 
 ---
 
 ## 3️⃣ Visualization (Tableau)
-- [ ] At least 1 dashboard created
-- [ ] 3–5 charts included
-- [ ] Bar chart: % of top players making playoffs
-- [ ] Line chart: trends over 20 seasons
-- [ ] Stacked bar / heatmap: positions vs playoff appearances
-- [ ] Interactive filters: position, metric, season
+- [X] At least 1 dashboard created
+- [X] 3–5 charts included
+- [X] Bar chart: % of top players making playoffs
+- [X] Interactive filters: position, metric, season
 
 ---
 
 ## 4️⃣ Documentation & Presentation
-- [ ] GitHub repo structured & organized
-- [ ] README includes project purpose
-- [ ] README includes datasets & sources
-- [ ] README includes key insights
-- [ ] README lists tools used (Python, Tableau)
-- [ ] Tableau Public dashboard linked (if applicable)
-- [ ] Code clean, well-commented, and runs top-to-bottom
+- [X] GitHub repo structured & organized
+- [X] README includes project purpose
+- [X] README includes datasets & sources
+- [X] README includes key insights
+- [X] README lists tools used (Python, Tableau)
+- [X] Tableau Public dashboards linked (if applicable)
+- [X] Code clean, well-commented, and runs top-to-bottom
 
 ---
 
 ## 5️⃣ General Readiness
-- [ ] Project demonstrates start-to-finish workflow
-- [ ] Clear storytelling of question → analysis → visualization
-- [ ] Shows Python + data cleaning + Tableau skills
-- [ ] Shareable with employers confidently
+- [X] Project demonstrates start-to-finish workflow
+- [X] Clear storytelling of question → analysis → visualization
+- [X] Shows Python + data cleaning + Tableau skills
+- [X] Shareable with employers confidently
 
 ---
