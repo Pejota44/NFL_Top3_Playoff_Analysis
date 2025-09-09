@@ -1,9 +1,7 @@
 # 🏈 Project: *“The I in Team” – NFL Top Offensive Players & Team Success*
 
 ## 📌 Overview
-This project analyzes whether having elite offensive players directly impacts team success in the NFL.  
-Common sense suggests that a top QB contributes more to wins than a top TE — but does the data agree?  
-Using Python for data preparation and Tableau for visualization, I ranked players across multiple positions and compared their performance to playoff outcomes.
+This project analyzes the top offensive NFL players (QB, RB, WR, TE) from the last 13 seasons (2012–2024) and explores how their performance correlates with team success.
 
 ## 📂 Data Preparation & Cleaning
 - **Positions studied**: QB, RB, WR, TE  
@@ -31,11 +29,13 @@ Using Python for data preparation and Tableau for visualization, I ranked player
 ## 🚀 Key Deliverables
 - Tableau dashboards (QB, RB, WR, TE, and summary)  
 - KPIs:  
-  - Relationship between top players and playoff appearances  
-  - Position-level impact on playoff likelihood  
+  - Cleaned datasets (top3_stats.pkl)
+  - Jupyter notebooks for data prep and EDA
   - End-to-end project workflow demonstrating: data prep, KPI design, and dashboard building
 ---
 
 ## 📈 Next Steps
-- Add machine learning models to predict playoff outcomes  
+- Add machine learning models to predict playoff outcomes 
+
+Note: Raw weekly stats CSV files are not included due to GitHub file size limits. Zipped data available.
 
