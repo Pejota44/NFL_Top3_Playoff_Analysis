@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb~
+
+# Data (ignore raw if too big, track processed files)
+data/raw/*
+!data/processed/top3_stats.pkl
+
+# OS
+.DS_Store
+Thumbs.db
